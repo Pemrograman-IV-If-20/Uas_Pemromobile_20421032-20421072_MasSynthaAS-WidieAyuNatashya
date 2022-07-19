@@ -1,0 +1,4 @@
+#Tue Jul 19 17:46:19 ICT 2022
+base.0=D\:\\Documents\\mobile\\UAS_PemrogramanMobile_20421032_20421072\\toko_hijab\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
